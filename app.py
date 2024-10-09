@@ -17,7 +17,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 
-model_path = r'C:\Users\Swetha\Desktop\fyp\random_forest_emotion_polarity_model.pkl'
+model_path = r'random_forest_emotion_polarity_model.pkl'
 emotion_model = joblib.load(model_path)
 
 emotion_labels = ['Angry', 'Happy', 'Neutral', 'Sad', 'Surprise']
