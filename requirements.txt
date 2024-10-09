@@ -13,3 +13,4 @@ pytz
 email-validator
 pillow
 PyPDF2
+gunicorn
