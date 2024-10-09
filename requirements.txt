@@ -1,0 +1,15 @@
+Flask
+SpeechRecognition
+gTTS
+google-generativeai
+matplotlib
+wordcloud
+pydub
+joblib
+librosa
+numpy
+pdfkit
+pytz
+email-validator
+pillow
+PyPDF2
