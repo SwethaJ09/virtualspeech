@@ -31,7 +31,7 @@ polarity_scores = {
 
 app = Flask(__name__)
 
-os.environ["API_KEY"] = "AIzaSyBoakTUf4je7Et5z8iGGwmza4nniyekXBY"
+os.environ["API_KEY"] = ""
 
 genai.configure(api_key=os.environ["API_KEY"])
 
